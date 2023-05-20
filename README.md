@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsha Vardhan
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning cloud along with MERN stack
 
 
 <!---
